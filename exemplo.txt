@@ -1,0 +1,12 @@
+
+git init -> inicializar o repositório 
+
+//caso o repositório tenha acabado de ser criado -> git branch -M main 
+
+git add . -> adicionar arquivo 
+
+git commit -m " exemplo de commit "
+
+git push -> subir arquivos
+
+git pull -> atualizar/puxar arquivos.
